@@ -7,9 +7,10 @@ The extracted features are stored in a single dataset (`ADHD_dataset.csv`), whic
 ## Related Paper
 
 For full methodology and results, refer to our published paper:  
-[ADHD Classification through EEG-derived Centrality Measures and Machine Learning: A Neurobiological Perspective (PDF Link)]([PAPER_LINK_HERE](https://ieeexplore.ieee.org/abstract/document/10958386/))
+[ADHD Classification through EEG-derived Centrality Measures and Machine Learning: A Neurobiological Perspective (PDF Link)] [PAPER_LINK_HERE](https://ieeexplore.ieee.org/abstract/document/10958386/)
 
----
+## Work Flow Diagram
+![Model Architecture](images/model_architecture.png)
 
 ## Repository Structure
 
